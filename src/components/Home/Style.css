@@ -1,0 +1,48 @@
+.banner{
+    width: 100%;
+    height: 600px;
+   position: relative;
+    background-image:
+    linear-gradient( rgba(0,0,0,0.70), rgba(0,0,0,0.60)),
+    url('https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Learn_R_Programming.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* a */
+
+.info{
+    position: absolute;
+    margin-top: 200px;
+}
+.info h2{
+    letter-spacing: 3px;
+    font-size: 40px;
+}
+.info button{
+    margin-top: 32px;
+}
+.info a{
+    color: white !important;
+}
+.about-info .icon{
+    font-size: 31px;
+   
+}
+.icon a{
+     margin: 5px;
+}
+/* about */
+
+.hero img{
+    height: 400px;
+    width: 300px;
+}
+.about-info{
+    margin-left: 40px;
+  
+}
+/* projects */
+.card img{
+    height: 260px;
+}
