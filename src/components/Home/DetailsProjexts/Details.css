@@ -1,0 +1,12 @@
+.hero img{
+    height: 500px;
+
+}
+.project-img{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.project-img img{
+    padding: 15px;
+}

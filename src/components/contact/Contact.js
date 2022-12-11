@@ -21,7 +21,7 @@ const Contact = () => {
          </div>
         </div>
 
-         <form  onSubmit={handleSubmit} className="form py-8 mx-auto w-96">
+         <form  onSubmit={handleSubmit} className="form py-8 mx-auto w-80 lg:w-96">
         <div className="form-control w-full max-w-xs">
             <label className="label">
                 <span className="label-text">Full Name</span>
