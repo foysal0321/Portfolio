@@ -3,12 +3,14 @@ import Footer from '../../share/footer/Footer';
 import About from './About';
 import Header from './Header';
 import Projects from './Projects';
+import Skills from './Skills';
 
 const Home = () => {
     return (
-        <div>
+        <div className=''>
             <Header />
             <About />
+            <Skills />
             <Projects />
             
         </div>

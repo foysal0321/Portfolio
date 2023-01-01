@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <footer className="footer footer-center p-10 bg-slate-600 text-primary-content">
   <div>   
-    <p>Copyright © 2022 - All right reserved by <span className='font-semibold'>Foysal</span> </p>
+    <p>Copyright © 2022 - All right reserved by  <span className='font-semibold'> _Foysal</span> </p>
   </div> 
   <div>
     <div className="grid grid-flow-col gap-4 icon">

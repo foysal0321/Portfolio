@@ -10,7 +10,7 @@ const Header = () => {
         Aos.init({duration: 900})
     },[])
     return (
-        <div className='banner'>
+        <div className='banner mt-20'>
             <div className=" text-white info lg:ml-36 md:ml-20 ml-3">
                 <h2 className='py-1 font-semibold'>I'm Foysal, a junior <br />
                 <span style={{  }}>

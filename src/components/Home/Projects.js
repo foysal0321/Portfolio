@@ -15,7 +15,7 @@ const Projects = () => {
             <h2 className="card-title">Watch world</h2>
             <p>The website made for products to sell and buy, Seller can add a new product, Admin control.</p>
             <div className="flex ">
-              <a href="https://watch-world-f53ee.web.app/" target='_blank'>
+              <a href="https://gregarious-semifreddo-22b463.netlify.app/" target='_blank'>
                 <button className="btn btn-error btn-sm lg:w-40 w-32 text-white">View project</button>
             </a> 
             <Link to='/watch'>

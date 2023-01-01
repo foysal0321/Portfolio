@@ -10,7 +10,7 @@ const Contact = () => {
         
   }
     return (
-     <div>            
+     <div className='mt-20'>            
        <div className="hero h-96" style={{ backgroundImage: `url("https://t4.ftcdn.net/jpg/03/95/04/15/360_F_395041586_h21AxqD0dNjxUw3lKFiV5t7qMBJs6wfe.jpg")` }}>
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
